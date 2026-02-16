@@ -45,24 +45,24 @@ _scan individual files while coding. instant feedback on high-risk lines, unsafe
 
 **tech stack**
 
-	•	language: go (fast, lightweight, perfect for cli tools)
-	•	architecture: modular, local-first, future-ready for optional ai-assisted fixes
-	•	scan engine: rule-based checks for security, infrastructure, and production hygiene
-	•	output: prioritized, color-coded terminal reports with confidence scores
+	•language: go (fast, lightweight, perfect for cli tools)
+	•architecture: modular, local-first, future-ready for optional ai-assisted fixes
+	•scan engine: rule-based checks for security, infrastructure, and production hygiene
+	•output: prioritized, color-coded terminal reports with confidence scores
 
 
 **why midnight audit?**
 
 solo founders don’t have teams to double-check every line of code. midnight audit gives you:
 
-	•	confidence before deploying
-	•	speed when shipping features
-	•	clarity on what actually matters
+	•confidence before deploying
+	•speed when shipping features
+	•clarity on what actually matters
 
 it’s your late-night wingman, helping you avoid embarrassing bugs, security mishaps, or production failures — all from your terminal.
 
 **roadmap:**
 
-	•	phase 1: local cli mvp with 10–15 high-impact checks
-	•	phase 2: optional cloud ai for fix suggestions and heavier scans
-	•	phase 3: subscription version with risk history, ci integration, and team features
+	•phase 1: local cli mvp with 10–15 high-impact checks
+	•phase 2: optional cloud ai for fix suggestions and heavier scans
+	•phase 3: subscription version with risk history, ci integration, and team features
