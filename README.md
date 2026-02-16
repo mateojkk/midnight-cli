@@ -1,11 +1,13 @@
 # midnight-cli
 _high-performance security audit cli for solo builders_
+ ```
   __  __ _     _       _       _     _   
  |  \/  (_) __| |_ __ (_) __ _| |__ | |_ 
  | |\/| | |/ _` | '_ \| |/ _` | '_ \| __|
  | |  | | | (_| | | | | | (_| | | | | |_ 
  |_|  |_|_|\__,_|_| |_|_|\__, |_| |_|\__|
                          |___/      -cli
+```
 
 **overview**
 
