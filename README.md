@@ -1,5 +1,11 @@
 # midnight-cli
 _high-performance security audit cli for solo builders_
+  __  __ _     _       _       _     _   
+ |  \/  (_) __| |_ __ (_) __ _| |__ | |_ 
+ | |\/| | |/ _` | '_ \| |/ _` | '_ \| __|
+ | |  | | | (_| | | | | | (_| | | | | |_ 
+ |_|  |_|_|\__,_|_| |_|_|\__, |_| |_|\__|
+                         |___/      -cli
 
 **overview**
 
@@ -55,14 +61,14 @@ _scan individual files while coding. instant feedback on high-risk lines, unsafe
 
 solo founders don’t have teams to double-check every line of code. midnight audit gives you:
 
-	•confidence before deploying
-	•speed when shipping features
-	•clarity on what actually matters
+• confidence before deploying
+• speed when shipping features
+• clarity on what actually matters
 
 it’s your late-night wingman, helping you avoid embarrassing bugs, security mishaps, or production failures — all from your terminal.
 
 **roadmap:**
 
-	•phase 1: local cli mvp with 10–15 high-impact checks
-	•phase 2: optional cloud ai for fix suggestions and heavier scans
-	•phase 3: subscription version with risk history, ci integration, and team features
+• phase 1: local cli mvp with 10–15 high-impact checks
+• phase 2: optional cloud ai for fix suggestions and heavier scans
+• phase 3: subscription version with risk history, ci integration, and team features
